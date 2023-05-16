@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
-- [Live version]()
+- [Solution](https://github.com/Mel-ca/product-preview-card)
+- [Live version](https://mel-ca.github.io/product-preview-card/)
 
 ## My process
 
